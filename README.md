@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CamiloSalgueroMarin
-- 👀 I’m interested in Data Science, Software Engineering, Cycling and Art
+- 👀 I’m interested in Data Science, Software Engineering, Art and Cycling
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me at csalgueromarin@gmail.com
